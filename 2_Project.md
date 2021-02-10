@@ -11,3 +11,6 @@
 - UIImagePickerController
 - UIGestureRecognizer
 - MVC
+
+## 버그
+- ios14.2 키보드 secure 시 strong 이슈
