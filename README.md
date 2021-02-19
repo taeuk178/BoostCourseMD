@@ -8,6 +8,6 @@ BoostCourseMD
 
 ## [3_Weather(ing)](https://github.com/taeuk178/BoostCourseMD/blob/main/3_Project.md)
 
-## [4_Album(Todo)](https://github.com/taeuk178/BoostCourseMD/blob/main/4_Project.md)
+## [4_Album(ing)](https://github.com/taeuk178/BoostCourseMD/blob/main/4_Project.md)
 
 ## [5_BoxOffice(Todo)](https://github.com/taeuk178/BoostCourseMD/blob/main/5_Project.md)
