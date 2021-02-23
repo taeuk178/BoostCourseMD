@@ -6,7 +6,7 @@ BoostCourseMD
 
 ## [2_signUp(pass)](https://github.com/taeuk178/BoostCourseMD/blob/main/2_Project.md)
 
-## [3_Weather(ing)](https://github.com/taeuk178/BoostCourseMD/blob/main/3_Project.md)
+## [3_Weather(pass)](https://github.com/taeuk178/BoostCourseMD/blob/main/3_Project.md)
 
 ## [4_Album(ing)](https://github.com/taeuk178/BoostCourseMD/blob/main/4_Project.md)
 
