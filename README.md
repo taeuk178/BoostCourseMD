@@ -10,4 +10,4 @@ BoostCourseMD
 
 ## [4_Album(ing)](https://github.com/taeuk178/BoostCourseMD/blob/main/4_Project.md)
 
-## [5_BoxOffice(Todo)](https://github.com/taeuk178/BoostCourseMD/blob/main/5_Project.md)
+## [5_BoxOffice(ing)](https://github.com/taeuk178/BoostCourseMD/blob/main/5_Project.md)
