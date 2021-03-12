@@ -1,5 +1,3 @@
-BoostCourse
-
 # 프로젝트 목록
 
 ## [1_Music](https://github.com/taeuk178/BoostCourseMD/blob/main/BoostCourseFiles/1_Project.md)
