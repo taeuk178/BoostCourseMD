@@ -1,5 +1,11 @@
 #  2_Project
+간단한 로그인화면 구현
 
+## 사용한 기술
+- `Singleton` 패턴을 활용하여 데이터 전달
+- `present`, `push` 화면 전환
+- Swift API 가이드라인으로 Camel case를 이용한 기본적인 코딩 스타일
+- `MVC`
 
 ## 배운 내용
 - H.I.G
@@ -14,6 +20,3 @@
 - UIImagePickerController
 - UIGestureRecognizer
 - MVC
-
-## 버그
-- ios14.2 키보드 secure 시 strong 이슈
